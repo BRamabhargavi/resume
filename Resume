@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MY RESUME</title>
+</head>
+<body>
+	<h1 align="center">RAMA BHARGAVI BATHINI</h1>
+	<p><b>NAME:</b>B.Rama Bhargavi</p>
+	<p><b>Mobile:</b>8688453686</p>
+	<p><b>Email:</b>bhargavi123@gmail.com</p><br><hr>
+	<h1><u>CAREER OBJECTIVE:</u></h1>
+	<P>To work in my learning and challenging Environment ,utilizing my skills and knowledge to the best of my abilities and contribute positively to my personal growth and as growth of the organization.</p><br>
+	<h1><u>ACADEMIC QUALIFICATION:</u></h1>
+	<table border=1px>
+		<tr>
+			<th>QUALIFICATION</th>
+			<th>SCHOOL/COLLEGE</th>
+			<th>BOARD/UNIVERSITY</th>
+			<th>PERCENTAGE % OR CGPA</th>
+			<th>YEAR OF PASSING</th>
+		</tr>
+		<tr>
+			<td>B.Tech(CSE)</td>
+			<td>Vignan Nirula Institute of Technology and Science for Women,Guntur</td>
+			<td>JNTU Kakinada</td>
+			<td>8.77/10(till date)</td>
+			<td>2025</td>
+		</tr>
+		<tr>
+			<td>Intermediate(MPC)</td>
+			<td>A.P.Model school&Junior college,Racherla</td>
+			<td>Board of Intermediate Education AP</td>
+			<td>96.4/100</td>
+			<td>2021</td>
+		</tr>
+		<tr>
+			<td>SSC</td>
+			<td>A.P.Model school&Junior college,Racherla</td>
+			<td>Board of Secondary Education AP</td>
+			<td>9.8/10</td>
+			<td>2019</td>
+		</tr>
+	</table>
+	<h1><u>TECHNICAL SKILLS:</u></h1>
+	<p><b>PROGRAMMING LANGUAGES:</b>Python,C</p>
+	<h1><u>CERTIFICATION'S:</u></h1>
+	<p>Achieved Pythocraft certificate from talentio solutions.</p>
+	<h1><u>PERSONAL PROFILE:</u></h1>
+	<p><b>Father Name: B.Venkataramana </b></p>
+	<p><b>Mother Name:B.Rama Rajyam</b></p>
+	<p><b>Date of Birth:8-5-2004</b></p>
+	<p><b>Languages Known:Telugu,English</b></p>
+	<p><b>Hobbies:Watching T.V,reading books.</b></p>
+	<p><b>Permanent Address:2-44,
+		Magutur(V),
+		Ardhavedu(M),
+		Praksham(Dt),
+		Pin-code:523333.
+
+<p>DECLARATION:I do here by declare that all the information above is true to best of my knowledge and belief.</p>
+<p align="right"><b>SIGNATURE:B.RAMA BHARGAVI</b></p>
+<p>Place:Guntur</p>
+<p>Date:02-10-2022</p>
